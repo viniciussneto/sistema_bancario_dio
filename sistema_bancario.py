@@ -54,7 +54,7 @@ while True:
             numero_saques += 1
 
         else:
-            print("Operação falhou! O valor informado é inválido.")
+            print("Operacao falhou! O valor informado é inválido.")
 
     elif opcao == "3":
         print("\n================ EXTRATO ================")
@@ -67,5 +67,5 @@ while True:
         break
 
     else:
-        print("Operação inválida, por favor selecione novamente a operação desejada.")
+        print("Operaaoo inválida, por favor selecione novamente a operação desejada.")
 
